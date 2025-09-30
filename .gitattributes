@@ -1,3 +1,4 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+data/*.csv filter=lfs diff=lfs merge=lfs -text
 data/purchases.csv filter=lfs diff=lfs merge=lfs -text
 data/sales.csv filter=lfs diff=lfs merge=lfs -text
