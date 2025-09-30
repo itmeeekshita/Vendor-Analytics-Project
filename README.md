@@ -12,12 +12,12 @@ The Vendor Analytics Project is a data analytics solution designed to process an
 
 ## Repository Structure
 vendor-analytics-project/
-├─ data/                  # Raw CSV data (tracked with Git LFS)
-│  ├─ purchases.csv
-│  └─ sales.csv
-├─ scripts/               # Python scripts for data processing
-├─ notebooks/             # Jupyter notebooks for analysis
-├─ .gitattributes         # Git LFS tracking configuration
+├─ data/ # Raw CSV data (tracked with Git LFS)
+│ ├─ purchases.csv
+│ └─ sales.csv
+├─ scripts/ # Python scripts for data processing
+├─ notebooks/ # Jupyter notebooks for analysis
+├─ .gitattributes # Git LFS tracking configuration
 └─ README.md
 
 ## Getting Started
